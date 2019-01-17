@@ -9,7 +9,7 @@ EducationKnowledgeGraph, focused on education and exam knowledge which can enabl
 &ensp;&ensp;&ensp;&ensp;人物关系知识图谱(https://github.com/liuhuanyong/PersonRelationKnowledgeGraph)  
 以及放出的一些基本性的图谱尝试如顺承图谱(https://github.com/liuhuanyong/SequentialEventExtration)  
 &ensp;&ensp;&ensp;&ensp;因果图谱(https://github.com/liuhuanyong/CausalityEventExtraction)  等,大家有兴趣的可以继续查看.  
-新的一年,我将尝试在其他领域进行知识图谱的应用尝试,教育领域是知识图谱应用领域的一个重要领域之一,目前基于知识图谱的智能教育发展的也很不错,如各大教育培训公司内部都或多或少会运用知识图谱进行智能教育.而我调研了一下,面向考研的知识图谱还相对欠缺,本人虽然已经硕士毕业快2年,但对于考研这个事情还是留有一定印象,我觉得假如有考研知识图谱这样一个知识库存在(从知识工程的角度上来讲),将是一个很有用处的资源库,也可以支持诸多应用,包括考研助手,科研助手等. 于是,本项目被提出,欢迎大家一起加入进来.  
+&ensp;&ensp;&ensp;&ensp;新的一年,我将尝试在其他领域进行知识图谱的应用尝试,教育领域是知识图谱应用领域的一个重要领域之一,目前基于知识图谱的智能教育发展的也很不错,如各大教育培训公司内部都或多或少会运用知识图谱进行智能教育.而我调研了一下,面向考研的知识图谱还相对欠缺,本人虽然已经硕士毕业快2年,但对于考研这个事情还是留有一定印象,我觉得假如有考研知识图谱这样一个知识库存在(从知识工程的角度上来讲),将是一个很有用处的资源库,也可以支持诸多应用,包括考研助手,科研助手等. 于是,本项目被提出,欢迎大家一起加入进来.  
 
 # 项目架构
 ![image](https://github.com/liuhuanyong/EducationKnowledgeGraph/blob/master/image/schema.jpg)
